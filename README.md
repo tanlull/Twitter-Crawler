@@ -12,3 +12,10 @@ pip install wordcutpy
 ```
 pip install -U selenium
 ```
+
+- Get Twitter Access Token Key from 
+
+```
+apps.twitter.com 
+```
+
